@@ -1,4 +1,7 @@
 ---
+title: stray (poetry book)
+aliases:
+  - stray (poetry book)
 tags:
   - book
   - writing
@@ -32,5 +35,3 @@ thanks for reading.
 ---
 
 you can read all the poems here:
-
-[[tags/stray]]
