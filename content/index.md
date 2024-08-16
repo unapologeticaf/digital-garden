@@ -1,11 +1,11 @@
 ---
 title: welcome
 ---
-I'm Gabriele, also known as [[flygohr]], Burzak, [[stray.scribbles]], or Aldebaran1317 online. this is my little [digital garden](https://jzhao.xyz/posts/networked-thought#what-is-digital-gardening).
+I'm Gabriele, also known as [[flygohr]], Burzak, [[stray_scribbles]], or Aldebaran1317 online. this is my little [digital garden](https://jzhao.xyz/posts/networked-thought#what-is-digital-gardening).
 
 I'm currently:
 - writing short poems for my book [[tags/stray|stray (poetry book)]]
-- making one drawing a day for my [[stray.scribbles]] Instagram page
+- making one drawing a day for my [[stray_scribbles]] Instagram page
 - working full time as a digital fantasy artist under the art name [[flygohr|Flygohr]]
 - reading [[The Skeptics' Guide to the Universe]], [[Fullmetal Alchemist]] (re-reading, actually), [[One Piece]] (currently on chapter 1122), and [[Altered Carbon]]'s second book, [[Broken Angels]]
 - binge watching the YT channels [[Horses]] and [[Answers in Progress]]
