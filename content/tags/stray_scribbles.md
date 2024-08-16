@@ -7,4 +7,4 @@ this is the alias under which I share the art that I like the most to do, black 
 
 I made:
 - [[tags/liar_tarots]]
-- [[tags/liar_story]]
+- [[Liar's story]]
