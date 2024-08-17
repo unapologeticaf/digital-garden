@@ -11,11 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "unapologetic.af",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: 'umami',
-      host: 'https://cloud.umami.is/script.js',  // Replace with your Umami host
-      websiteId: '1ce43482-8714-47f9-9611-2961408aa063'  // Replace with your Umami website ID
-    },
+    analytics: null,
     locale: "en-US",
     baseUrl: "unapologeticaf.github.io/digital-garden/",
     ignorePatterns: ["private", "templates", ".obsidian"],
