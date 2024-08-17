@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: 'umami',
-      host: 'https://unapologeticaf.github.io/digital-garden/',  // Replace with your Umami host
+      host: 'https://cloud.umami.is/script.js',  // Replace with your Umami host
       websiteId: '1ce43482-8714-47f9-9611-2961408aa063'  // Replace with your Umami website ID
     },
     locale: "en-US",
