@@ -1,4 +1,4 @@
-as I was doing a daily drawing challenge for my [[stray.scribbles on Instagram|Instagram page]] I ended up recalling [[Liar's story|the story of my OC Liar]]. I always had a fascination for tarot cards and I always failed to create my own deck.. one thing carried the other and I made one for [[Liar]]
+as I was doing a daily drawing challenge for my [[stray.scribbles on Instagram|Instagram page]] I ended up recalling [[Liar's story (comic)|the story of my OC Liar]]. I always had a fascination for tarot cards and I always failed to create my own deck.. one thing carried the other and I made one for [[Liar]]
 ## Major Arcana
 - [[0 - The Fool]]
 - [[I - The Magician]]
@@ -23,7 +23,7 @@ as I was doing a daily drawing challenge for my [[stray.scribbles on Instagram|I
 - [[XX - Judgement]]
 - [[XXI - The World]]
 ## Minor Arcana
-these are still a work in progress, as I wanted to move on to telling [[Liar's story]] first
+these are still a work in progress, as I wanted to move on to telling [[Liar's story (comic)]] first
 ### Wands
 - [[Ace of Wands]]
 - [[Two of Wands]]
