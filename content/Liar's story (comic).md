@@ -7,3 +7,8 @@ the story of my OC [[Liar]], told one panel at a time as [[stray.scribbles on In
 ![[dd117.jpg]]![[dd118.jpg]]
 ![[dd119.jpg]]
 ![[dd120.jpg]]
+![[dd121 (1).jpg]]
+![[dd122.jpg]]
+![[dd123.jpg]]
+![[dd124.jpg]]
+![[dd125.jpg]]
