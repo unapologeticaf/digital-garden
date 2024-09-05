@@ -1,6 +1,6 @@
 ---
 tags:
   - book
+  - reading
   - fiction
-  - read
 ---

@@ -1,3 +1,7 @@
+---
+tags:
+  - writing
+---
 Once upon a time, there was a kid who walked and walked a lot.
 
 Walking and walking, one day the kid met a man. There was something strange about the man, so the kid asked:
@@ -23,3 +27,11 @@ The kid resumed his walk, again.
 Walking and walking, one day the kid met a girl. There was something beautiful about the girl, and the kid stopped, breathless. But there was also something strange about the girl, so the kid started wondering how to ask her why.
 
 Why she had no eyes.
+
+---
+
+No matter how hard he thought about it, the kid couldn't figure it out.
+
+So he moved on.
+
+Walking and walking, one day the kid found a city.

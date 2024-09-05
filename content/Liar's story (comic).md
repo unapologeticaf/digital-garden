@@ -1,3 +1,7 @@
+---
+tags:
+  - drawing
+---
 the story of my OC [[Liar]], told one panel at a time as [[stray.scribbles on Instagram]]. as of August 2024, still a work in progress. the origin story can be read in full here: [[Liar's story (text)]]
 
 ![[dd113.jpg]]
@@ -12,3 +16,13 @@ the story of my OC [[Liar]], told one panel at a time as [[stray.scribbles on In
 ![[dd123.jpg]]
 ![[dd124.jpg]]
 ![[dd125.jpg]]
+![[dd126.jpg]]
+![[dd127 (1).jpg]]
+![[dd128.jpg]]
+![[dd129.jpg]]
+![[dd130.jpg]]
+![[ls19dd131.jpg]]
+![[dd132ls20.jpg]]
+![[dd133ls21.jpg]]
+![[dd134ls22 1.jpg]]
+![[dd135ls23.jpg]]

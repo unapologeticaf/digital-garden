@@ -6,13 +6,17 @@ I'm Gabriele, also known as [[flygohr]], Burzak, [[stray_scribbles]], or Aldebar
 I'm currently:
 - writing short poems for my book [[tags/stray|stray (poetry book)]]
 - making one drawing a day for my [[stray_scribbles]] Instagram page
+- designing a tarots deck featuring my OC [[Liar]]. I'm also writing and illustrating his [[Liar's story (comic)|lore]]
 - working full time as a digital fantasy artist under the art name [[flygohr|Flygohr]]
-- reading [[The Skeptics' Guide to the Universe]], [[Fullmetal Alchemist]] (re-reading, actually), [[One Piece]] (currently on chapter 1122), and [[Altered Carbon]]'s second book, [[Broken Angels]]
-- binge watching the YT channels [[Horses]] and [[Answers in Progress]]
-- playing [[Solasta CotM]] and [[Pokémon TCG Live]]
-- creating a one-shot campaign for me and my flatmates using the [[Cairn]] system
+- preparing to become a tattoo artist. next step: pass the sanitary and hygiene exam required for tattoo and piercing practitioners
+- preparing a [[Cairn]] tabletop RPG campaign for my group of friends
+- I would also like to create [my childhood RPG](https://github.com/unapologeticaf/childhood-rpg), the project is currently on hiatus but downloadable from [my GitHub page](https://github.com/unapologeticaf/).
 
-I would also like to create [my childhood RPG](https://github.com/unapologeticaf/childhood-rpg), the project is currently on hiatus but downloadable from [my GitHub page](https://github.com/unapologeticaf/).
+I'm also:
+- reading [[The Skeptics' Guide to the Universe]], [[Fullmetal Alchemist]] (re-reading, actually), [[One Piece]] (currently on chapter 1124), and fantastic [[Titanium Noir]]
+- binge re-watching the YT channel [[vSauce]] 
+- playing some [[Pokémon TCG Live]]
+- on a 500+ days streak on Duolingo lmao
 
 ---
 
