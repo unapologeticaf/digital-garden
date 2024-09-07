@@ -35,3 +35,13 @@ No matter how hard he thought about it, the kid couldn't figure it out.
 So he moved on.
 
 Walking and walking, one day the kid found a city.
+
+Everyone there had eyes, ears, and mouth. Clothes. Something to do.
+
+The deaf, mute, naked kid from outside had nothing.
+
+The kid started to think he had made a mistake. It was too late to turn back, so the kid decided to hide. Nobody noticed.
+
+Ashamed, the kid started building himself a mask. So as to cover up his mistakes. He wrapped himself in guilt, and he was on the move again.
+
+Everyone was still looking at him. 
