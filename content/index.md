@@ -1,7 +1,7 @@
 ---
 title: welcome
 ---
-I'm Gabriele, also known as [[flygohr]], Burzak, [[stray_scribbles]], or Aldebaran1317 online. this is my little [digital garden](https://jzhao.xyz/posts/networked-thought#what-is-digital-gardening).
+I'm Gabriele, also known as [[flygohr|Flygohr]], Liar, or [[stray_scribbles|Stray]] online. this is my little [digital garden](https://jzhao.xyz/posts/networked-thought#what-is-digital-gardening).
 
 I'm currently:
 - writing short poems for my book [[tags/stray|stray (poetry book)]]
@@ -13,9 +13,11 @@ I'm currently:
 - I would also like to create [my childhood RPG](https://github.com/unapologeticaf/childhood-rpg), the project is currently on hiatus but downloadable from [my GitHub page](https://github.com/unapologeticaf/).
 
 I'm also:
-- reading [[The Skeptics' Guide to the Universe]], [[Fullmetal Alchemist]] (re-reading, actually), [[One Piece]] (currently on chapter 1124), and fantastic [[Titanium Noir]]
-- binge re-watching the YT channel [[vSauce]] 
-- playing some [[Pokémon TCG Live]]
+- reading nonfiction with [[The Skeptics' Guide to the Universe]] and [[Limonov]]
+- reading fiction with [[Titanium Noir]]
+- reading mangas [[DRCL - midnight children]], re-reading [[Fullmetal Alchemist]], and playing catch-up with [[One Piece]] (currently on chapter 1125)
+- binge re-watching the YT channel [[vSauce]], but also diving deep in the essays of [[Horses]] and [[BobbyBroccoli]]
+- playing some [[Pokémon TCG Live]], currently in the Master League
 - on a 500+ days streak on Duolingo lmao
 
 ---

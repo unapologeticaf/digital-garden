@@ -36,7 +36,7 @@ So he moved on.
 
 Walking and walking, one day the kid found a city.
 
-Everyone there had eyes, ears, and mouth. Clothes. Something to do.
+Everyone there had eyes, ears, and mouth. Everyone had nice clothes. Something to do. Something to say, something to listen to.
 
 The deaf, mute, naked kid from outside had nothing.
 

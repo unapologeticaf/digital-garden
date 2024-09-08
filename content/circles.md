@@ -5,14 +5,14 @@ tags:
 ---
 the sky is grey, empty, cold
 its sunset throws metallic reflections
-on that desert you hold inside
+on that desert you hide inside
 
 your empty thoughts
 your insomniac abortions
-gutted outside starless nights
+gutted outside under starless nights
 
 hiding behind your steel there’s
-obsidian, and neverending days
+obsidian, and never-ending days
 
 it’s raining blood now
 it hammers your head
