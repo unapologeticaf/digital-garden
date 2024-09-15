@@ -42,6 +42,6 @@ The deaf, mute, naked kid from outside had nothing.
 
 The kid started to think he had made a mistake. It was too late to turn back, so the kid decided to hide. Nobody noticed.
 
-Ashamed, the kid started building himself a mask. So as to cover up his mistakes. He wrapped himself in guilt, and he was on the move again.
+The kid spent days looking through the leftovers of this society he stumbled upon. Weeks. Months. 
 
-Everyone was still looking at him. 
+Ashamed, regretful, tired, the kid finally had an idea.
