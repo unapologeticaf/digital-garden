@@ -45,3 +45,5 @@ The kid started to think he had made a mistake. It was too late to turn back, so
 The kid spent days looking through the leftovers of this society he stumbled upon. Weeks. Months. 
 
 Ashamed, regretful, tired, the kid finally had an idea.
+
+Maybe he couldn't undo his mistakes, but he could hide them. So he got himself a mask.
