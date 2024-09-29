@@ -1,5 +1,5 @@
 ---
 tags:
   - manga
-  - reading
+  - abandoned
 ---

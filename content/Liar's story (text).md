@@ -46,4 +46,21 @@ The kid spent days looking through the leftovers of this society he stumbled upo
 
 Ashamed, regretful, tired, the kid finally had an idea.
 
-Maybe he couldn't undo his mistakes, but he could hide them. So he got himself a mask.
+Maybe he couldn't undo his mistakes, but he could hide them. So the kid built himself a mask.
+
+The mask was as heavy as his mind was, but the kid put it on anyways.
+
+And with his newly found costume, the kid left behind everything he was still clinging on to, and ventured back into the city.
+
+Everybody was looking at him now. Everybody wanted him to say something, but he couldn't. The kid got himself something to scribble on, and went:
+
+*"Can you hear me now?"*
+
+But as that man told him, nobody was actually listening. 
+
+
+
+---
+
+
+

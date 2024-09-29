@@ -15,9 +15,9 @@ I'm currently:
 I'm also:
 - reading nonfiction with [[The Skeptics' Guide to the Universe]] and [[Limonov]]
 - reading fiction with [[Titanium Noir]]
-- reading mangas [[DRCL - midnight children]], re-reading [[Fullmetal Alchemist]], and playing catch-up with [[One Piece]] (currently on chapter 1125)
+- I'm re-reading [[Fullmetal Alchemist]], and playing catch-up with [[One Piece]] (currently on chapter 1127)
 - binge re-watching the YT channel [[vSauce]], but also diving deep in the essays of [[Horses]] and [[BobbyBroccoli]]
-- playing some [[Pokémon TCG Live]], currently in the Master League
+- playing some [[Pokémon TCG Live]], currently in the Master League. I also recently found a Pokémon MOBA, [[Pokémon Unite]], and I'm addicted
 - on a 500+ days streak on Duolingo lmao
 
 ---
