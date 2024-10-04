@@ -1,5 +1,5 @@
 ---
 tags:
   - game
-  - playing
+  - abandoned
 ---

@@ -5,6 +5,7 @@ aliases:
 tags:
   - book
   - writing
+  - unapologeticaf
 ---
 I just like to write short stories and melancholic poems
 

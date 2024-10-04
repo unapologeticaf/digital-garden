@@ -1,7 +1,10 @@
 ---
 tags:
   - writing
+  - stray_scribbles
 ---
+## Prologue
+
 Once upon a time, there was a kid who walked and walked a lot.
 
 Walking and walking, one day the kid met a man. There was something strange about the man, so the kid asked:
@@ -28,7 +31,7 @@ Walking and walking, one day the kid met a girl. There was something beautiful a
 
 Why she had no eyes.
 
----
+## Chapter 1
 
 No matter how hard he thought about it, the kid couldn't figure it out.
 
@@ -52,15 +55,12 @@ The mask was as heavy as his mind was, but the kid put it on anyways.
 
 And with his newly found costume, the kid left behind everything he was still clinging on to, and ventured back into the city.
 
-Everybody was looking at him now. Everybody wanted him to say something, but he couldn't. The kid got himself something to scribble on, and went:
+Everybody was looking at him now. Everybody wanted him to say something, but he couldn't. The kid got himself some scraps and a marker, and scribbled:
 
 *"Can you hear me now?"*
 
-But as that man told him, nobody was actually listening. 
+Some replied:
 
+*"Yes"*
 
-
----
-
-
-
+So the kid started to tell his story.

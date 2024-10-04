@@ -1,8 +1,9 @@
 ---
 tags:
   - drawing
+  - stray_scribbles
 ---
-as I was doing a daily drawing challenge for my [[stray.scribbles on Instagram|Instagram page]] I ended up recalling [[Liar's story (comic)|the story of my OC Liar]]. I always had a fascination for tarot cards and I always failed to create my own deck.. one thing carried the other and I made one for [[Liar]]
+as I was doing a daily drawing challenge for my [[stray_scribbles|Instagram page]] I ended up recalling [[Liar's story (comic)|the story of my OC Liar]]. I always had a fascination for tarot cards and I always failed to create my own deck.. one thing carried the other and I made one for [[Liar]]
 ## Major Arcana
 - [[0 - The Fool]]
 - [[I - The Magician]]
