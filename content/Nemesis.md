@@ -1,5 +1,6 @@
 ---
 tags:
   - game
-  - abandoned
+  - ttrpg
+  - playing
 ---
