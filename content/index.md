@@ -22,6 +22,7 @@ I'm also:
 
 collections:
 - [[tags/read|books I've read]]
+- [[Allies|allies]]
 
 ---
 
