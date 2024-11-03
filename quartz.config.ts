@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "unapologetic.af",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { provider: 'umami', host: 'unapologeticaf.github.io', websiteId: '56f613b1-ae93-44ea-8563-30d2baba8274' },
+    analytics: { provider: 'umami', host: 'unapologeticaf.github.io/digital-garden', websiteId: '56f613b1-ae93-44ea-8563-30d2baba8274' },
     locale: "en-US",
     baseUrl: "unapologeticaf.github.io/digital-garden/",
     ignorePatterns: ["private", "templates", ".obsidian"],
