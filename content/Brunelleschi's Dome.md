@@ -1,6 +1,6 @@
 ---
 tags:
   - book
+  - reading
   - nonfiction
-  - read
 ---

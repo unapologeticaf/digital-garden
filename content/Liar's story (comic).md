@@ -3,7 +3,7 @@ tags:
   - drawing
   - stray_scribbles
 ---
-the story of my OC [[Liar]], told one panel at a time as [[stray.scribbles on Instagram]]. as of August 2024, still a work in progress. the origin story can be read in full here: [[Liar's story (text)]]
+the story of my OC [[Liar]], told one panel at a time under [[stray_scribbles|stray.scribbles]]. as of November 2024, the story is on break, as I'm working on the [[Liar Tarots|tarot cards]]. the origin story can be read in full here: [[Liar's story (text)]]
 
 ![[dd113.jpg]]
 ![[dd114.jpg]]

@@ -2,9 +2,10 @@
 tags:
   - stray_scribbles
 ---
-### 1: Whispers
+### 1: whispers
 ![[inktober24_1.jpg]]
-### Shatter
+### 2. shatter
+
 ### Crimson
 ### Surrender
 ### Abyss
