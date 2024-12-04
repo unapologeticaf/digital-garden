@@ -2,5 +2,5 @@
 tags:
   - book
   - nonfiction
-  - read
+  - reading
 ---
